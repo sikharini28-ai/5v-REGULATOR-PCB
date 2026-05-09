@@ -17,7 +17,7 @@
 
 ## SCHEMATIC DIAGRAM
 
-![SCHEMATIC (2)](SCHEMATIC (2).png)
+![schematicdiagram](schematicdiagram.png)
 
 
 ## 3D VIEW
