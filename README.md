@@ -22,7 +22,7 @@
 
 ## 3D VIEW
 
-![3DVIEW](3DVIEW.png)
+![3DVIEW](3DVIEW.jpeg)
 
 ## DESIGNED BY
 SIKHARINI S
